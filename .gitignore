@@ -17,6 +17,7 @@ kibana/src/
 kibana/x-pack/
 filebeat/kibana/
 filebeat/module/
+filebeat/filebeat
 logstash/*/
 elasticstack/metrics/*/
 elasticsatck/metrics/metricbeat
