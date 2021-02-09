@@ -19,5 +19,5 @@ filebeat/kibana/
 filebeat/module/
 filebeat/filebeat
 logstash/*/
-elasticstack/metrics/*/
-elasticsatck/metrics/metricbeat
+metrics/*/
+metrics/metricbeat
